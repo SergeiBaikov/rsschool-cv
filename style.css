@@ -1,0 +1,28 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, #3525af, #9153c9);
+    color: cornsilk;
+    max-width: 960px;
+    margin: 0 auto;
+}
+.data {
+    display: block;
+    background-color:30% black;
+}
+.top {
+    text-align: center;
+    background-color;
+}
+img {
+    position: absolute;
+    right: 450px;
+    top: 15px;
+    border: 6px solid cornsilk;
+}
+
+.JS {
+    width: 300px;
+    padding: 20px;
+    background: lightslategrey;
+    text-align: left;
+}
